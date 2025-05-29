@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.env
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Logs and Reports
+*.log
+test_report/
+*.html
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
